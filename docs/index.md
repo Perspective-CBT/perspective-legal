@@ -3,4 +3,4 @@
 - [Privacy Policy](./privacy-policy)
 
 Public URL:  
-**https://moufidlarbi.github.io/perspective-legal/privacy-policy**
+**https://perspective-cbt.github.io/perspective-legal/privacy-policy**
