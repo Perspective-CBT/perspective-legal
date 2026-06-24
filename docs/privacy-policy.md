@@ -157,7 +157,7 @@ Our servers may be located in countries other than yours (including the United S
 
 ## Children
 
-CBT App is **not directed to children under 13** (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us data, contact us and we will delete it.
+Perspective: AI assisted CBT is **not directed to children under 13** (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us data, contact us and we will delete it.
 
 ## Changes to this policy
 
