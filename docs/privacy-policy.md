@@ -3,8 +3,9 @@
 **Last updated:** June 10, 2026
 
 **App name:** Perspective: AI assisted CBT
-**Package:** `com.perspectivecbt.app`  
-**Contact:** [hello@perspectivecbt.app](mailto:hello@perspectivecbt.app)
+**Package:** `com.perspectivecbtapp`  
+**Contact:** [hello@perspectivecbtapp.com](mailto:hello@perspectivecbtapp.com)  
+**Policy URL:** [https://perspective-cbt.github.io/perspective-legal/privacy-policy/](https://perspective-cbt.github.io/perspective-legal/privacy-policy/)
 
 This Privacy Policy explains how Perspective: AI assisted CBT (“we”, “us”, “the app”) collects, uses, stores, and shares information when you use our cognitive behavioral therapy (CBT) reflection app on Android (and other platforms where available).
 
@@ -136,7 +137,7 @@ Account deletion is intended to be permanent. We may retain minimal information 
 
 ### Contact us
 
-Email [moufidlarbi@gmail.com](mailto:moufidlarbi@gmail.com) to ask questions about your data or to request help with export or deletion.
+Email [hello@perspectivecbtapp.com](mailto:hello@perspectivecbtapp.com) to ask questions about your data or to request help with export or deletion.
 
 Depending on where you live, you may have additional rights (access, correction, portability, objection). Contact us and we will respond within a reasonable time.
 
@@ -160,11 +161,11 @@ CBT App is **not directed to children under 13** (or the minimum age required in
 
 ## Changes to this policy
 
-We may update this Privacy Policy from time to time. We will post the updated version at this URL and change the “Last updated” date. Continued use of the app after changes means you accept the updated policy.
+We may update this Privacy Policy from time to time. We will post the updated version at [https://perspective-cbt.github.io/perspective-legal/privacy-policy/](https://perspective-cbt.github.io/perspective-legal/privacy-policy/) and change the “Last updated” date. Continued use of the app after changes means you accept the updated policy.
 
 ## Contact
 
-**Email:** [hello@perspectivecbt.app](mailto:hello@perspectivecbt.app)
+**Email:** [hello@perspectivecbtapp.com](mailto:hello@perspectivecbtapp.com)
 
 ---
 
