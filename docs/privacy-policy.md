@@ -4,7 +4,7 @@
 
 **App name:** Perspective: AI assisted CBT
 **Package:** `com.perspectivecbtapp`  
-**Contact:** [hello@perspectivecbtapp.com](mailto:hello@perspectivecbtapp.com)  
+**Contact:** [support@perspectivecbtapp.com](mailto:support@perspectivecbtapp.com)  
 **Policy URL:** [https://perspective-cbt.github.io/perspective-legal/privacy-policy/](https://perspective-cbt.github.io/perspective-legal/privacy-policy/)
 
 This Privacy Policy explains how Perspective: AI assisted CBT (“we”, “us”, “the app”) collects, uses, stores, and shares information when you use our cognitive behavioral therapy (CBT) reflection app on Android (and other platforms where available).
@@ -165,7 +165,7 @@ We may update this Privacy Policy from time to time. We will post the updated ve
 
 ## Contact
 
-**Email:** [hello@perspectivecbtapp.com](mailto:hello@perspectivecbtapp.com)
+**Email:** [support@perspectivecbtapp.com](mailto:support@perspectivecbtapp.com)
 
 ---
 
