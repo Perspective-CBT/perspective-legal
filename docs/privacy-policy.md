@@ -137,7 +137,7 @@ Account deletion is intended to be permanent. We may retain minimal information 
 
 ### Contact us
 
-Email [hello@perspectivecbtapp.com](mailto:hello@perspectivecbtapp.com) to ask questions about your data or to request help with export or deletion.
+Email [support@perspectivecbtapp.com](mailto:support@perspectivecbtapp.com) to ask questions about your data or to request help with export or deletion.
 
 Depending on where you live, you may have additional rights (access, correction, portability, objection). Contact us and we will respond within a reasonable time.
 
