@@ -44,5 +44,6 @@ When your account is deleted, we remove associated personal data from our produc
 
 ## Related policies
 
-- [Privacy Policy](../privacy-policy/)
 - [Terms of Service](../terms-of-service/)
+- [Privacy Policy](../privacy-policy/)
+
